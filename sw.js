@@ -1,4 +1,4 @@
-const CACHE = "kanji-lens-shell-v1";
+const CACHE = "kanji-lens-shell-v2";
 const SHELL = ["/", "/manifest.webmanifest"];
 
 self.addEventListener("install", (event) => {
