@@ -1,0 +1,10 @@
+{
+  "name": "Kanji Lens",
+  "short_name": "Kanji Lens",
+  "description": "Scan Japanese text, save kanji, review them, and export to Anki.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f0e5",
+  "theme_color": "#f5f0e5",
+  "orientation": "portrait-primary"
+}
